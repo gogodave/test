@@ -1,3 +1,0 @@
-[submodule "test-sub"]
-	path = test-sub
-	url = git@github.com:gogodave/test-sub.git
